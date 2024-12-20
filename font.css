@@ -1,0 +1,125 @@
+.cent{
+    text-align: center;
+}
+#cl {
+    font-family: "Jacquard 12", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  #cl1{
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+
+.cent3{
+    text-align: center;
+}
+p{
+    display: inline;
+}
+.cent1{
+    float: right;
+}
+.cent2{
+    float:left;
+}
+.bord{
+    text-align: right;
+}
+.bord1{
+    text-align: justify;
+}
+#border{
+    margin: 0px 0px 0px 0px;
+    border: .0001px solid black;
+    text-align: left;
+    float: left;
+    width:702px;
+    
+}
+#b{
+    margin: 0px 0px 0px 0px;
+    border: .0001px solid black;
+    text-align: left;
+    float:left;
+    width:702px;
+    
+}
+.border1{
+    margin: 0px 0px 0px 0px;
+    border: .000px solid black;
+    text-align: left;
+    float: right;
+    width:750px;
+    }
+.done{
+    height: 660px;
+    width: 660px;
+    
+}
+
+.down{
+    text-align: center;
+}
+    
+
+
+
+.border1{
+    margin: 0px 0px 0px 0px;
+    x;
+    
+    border: 1px solid ;
+    float: right;
+    width:500px;
+    text-align: justify;
+    
+}
+border{
+    
+    border: 50px;
+    border-width: 1000px;
+    margin-right: 700px;
+    text-align: left;
+
+    border: 70px;
+    border-width: 600px;
+    margin-left: 500px;
+    text-align: left;
+    
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+ 
+   
+    
+
+
+}
+.body{
+    text-align: center;
+}
+
+}
+.border3{
+    border: 50px;
+    border-width: 1000px;
+    margin-left: 700px;
+    text-align: left;
+    margin-right: 100px;
+
+}
+#border1{
+    margin: 0px 0px 0px 0px;
+    border: .0001px solid black;
+    text-align: right;
+    float: right;
+    width:702px;
+    
+}
